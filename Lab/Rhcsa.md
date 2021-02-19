@@ -19,6 +19,7 @@
 3. Stop the rsyslog service.
 4. Configure the rsyslog service so that it does not start at system boot.
 5. Reboot serverb before evaluating the lab.
+
 **Evaluation**
 
      On workstation, run the lab services-review grade script to confirm success on this lab.
@@ -30,4 +31,4 @@
        On workstation, run the lab services-review finish script to complete this lab.
  **[student@workstation ~]$ lab services-review finish** 
 
-       This concludes the lab. 
+   This concludes the lab. 
