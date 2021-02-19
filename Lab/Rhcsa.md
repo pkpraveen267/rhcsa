@@ -2,7 +2,8 @@
 
 **PERFORMANCE CHECKLIST**
 
-        In this lab, you will configure several services to be enabled or disabled, running or stopped, based on a specification that is provided to you.
+        In this lab, you will configure several services to be enabled or disabled, running or stopped, 
+        based on a specification that is provided to you.
         
 **OUTCOMES**
 
