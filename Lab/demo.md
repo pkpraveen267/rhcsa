@@ -10,4 +10,5 @@ In this lab, you will use the Bash shell to execute commands.
 **BEFORE YOU BEGIN**
 
  Log in to workstation as student using student as the password.
+
  On workstation, run the lab cli-review start script to set up a clean lab environment. The script also copies the zcat file to student's home directory.
