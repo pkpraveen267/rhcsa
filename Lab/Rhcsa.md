@@ -10,7 +10,8 @@
 
      Log in as the student user on workstation using student as the password. 
      From workstation, run the lab services-review start command. 
-     The command runs a start script that determines whether the host, serverb, is reachable on the network. The script also ensures that the psacct and rsyslog services are configured appropriately on serverb. 
+     The command runs a start script that determines whether the host, serverb, is reachable on the network. 
+     The script also ensures that the psacct and rsyslog services are configured appropriately on serverb. 
 **[student@workstation ~]$ lab services-review start**
 
 1. On serverb, start the psacct service.
@@ -21,6 +22,7 @@
 **Evaluation**
 
      On workstation, run the lab services-review grade script to confirm success on this lab.
+     
  **[student@workstation ~]$ lab services-review grade**
  
 **Finish**
