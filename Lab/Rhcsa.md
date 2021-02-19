@@ -14,23 +14,23 @@
      From workstation, run the lab services-review start command. 
      The command runs a start script that determines whether the host, serverb, is reachable on the network. 
      The script also ensures that the psacct and rsyslog services are configured appropriately on serverb. 
-**[student@workstation ~]$ lab services-review start**
+*[student@workstation ~]$ lab services-review start*
 
-1. On serverb, start the psacct service.
-2. Configure the psacct service to start at system boot.
-3. Stop the rsyslog service.
-4. Configure the rsyslog service so that it does not start at system boot.
-5. Reboot serverb before evaluating the lab.
+     1. On serverb, start the psacct service.
+     2. Configure the psacct service to start at system boot.
+     3. Stop the rsyslog service.
+     4. Configure the rsyslog service so that it does not start at system boot.
+     5. Reboot serverb before evaluating the lab.
 
 **Evaluation**
 
      On workstation, run the lab services-review grade script to confirm success on this lab.
      
- **[student@workstation ~]$ lab services-review grade**
+ *[student@workstation ~]$ lab services-review grade*
  
 **Finish**
 
        On workstation, run the lab services-review finish script to complete this lab.
- **[student@workstation ~]$ lab services-review finish** 
+ *[student@workstation ~]$ lab services-review finish*
 
    This concludes the lab. 
