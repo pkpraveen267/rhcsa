@@ -1,4 +1,5 @@
 **Lab Accessing the Command Line**
+
 In this lab, you will use the Bash shell to execute commands.
 
 **OUTCOMES**
