@@ -1,4 +1,4 @@
-**CREATING, VIEWING, AND EDITING TEXT FILES**
+# CREATING, VIEWING, AND EDITING TEXT FILES #
 
 ***PERFORMANCE CHECKLIST***
 
@@ -47,7 +47,7 @@ On workstation, run the lab edit-review start command.
 
 On workstation, run the lab edit-review grade command to confirm success of this exercise. 
 
-[student@workstation ~]$ lab edit-review grade 
+*[student@workstation ~]$ lab edit-review grade* 
 
 **Finish** 
 
