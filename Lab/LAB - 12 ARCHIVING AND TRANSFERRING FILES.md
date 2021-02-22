@@ -21,7 +21,7 @@ From workstation, run the lab archive-review start command. The command runs a s
 
 The script also ensures that the files and directories to be created in the lab do not exist on serverb, and workstation. 
 
-*[student@workstation ~]$ lab archive-review start *
+*[student@workstation ~]$ lab archive-review start*
 
 1. On serverb, synchronize the /etc directory tree from servera to the /configsync directory.
 
