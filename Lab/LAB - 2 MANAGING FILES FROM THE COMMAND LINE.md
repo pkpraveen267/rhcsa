@@ -12,8 +12,9 @@
 
 **BEFORE YOU BEGIN** 
 
-Log in to workstation as student using student as the password. 
-On workstation, run the lab files-review start command. The command runs a start script that determines if the serverb machine is reachable on the network. 
+    Log in to workstation as student using student as the password.
+
+    On workstation, run the lab files-review start command. The command runs a start script that determines if the serverb machine is reachable on the network. 
 
 *[student@workstation ~]$ lab files-review start*
 
@@ -75,7 +76,7 @@ Connection to serverb closed.*
 
 **Evaluation**
 
-On workstation, run the lab files-review grade script to confirm success on this lab. 
+    On workstation, run the lab files-review grade script to confirm success on this lab. 
 
 *[student@workstation ~]$ lab files-review grade* 
 
