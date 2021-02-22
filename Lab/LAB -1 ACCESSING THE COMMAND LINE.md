@@ -1,6 +1,7 @@
 **Accessing the Command Line** 
 
 **PERFORMANCE CHECKLIST**
+
 In this lab, you will use the Bash shell to execute commands. 
 
 **OUTCOMES**
