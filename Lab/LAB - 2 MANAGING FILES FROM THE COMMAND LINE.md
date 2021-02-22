@@ -17,14 +17,19 @@ the shell and a variety of file name matching techniques.
     
    The command runs a start script that determines if the serverb machine is reachable on the network. 
 
+
 *[student@workstation ~]$ lab files-review start*
+
 
 1. Use the ssh command to log in to serverb as the student user. The systems are configured to use
     SSH keys for authentication, and therefore a password is not required.
     
+
 *[student@workstation ~]$ ssh student@serverb* 
 
+
 *[student@serverb ~]$*
+
 
 2. Before you create project files, use the mkdir command with brace expansion to create empty project planning documents in the /home/student/Documents/project_plans directory. (Hint: if    ~/Documents does not exist, the -p option for the mkdir command will create it.)
 Create two empty files in the ~/Documents/project_plans directory: season1_project_plan.odf and season2_project_plan.odf.
