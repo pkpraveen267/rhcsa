@@ -33,7 +33,7 @@ The script also ensures that the files and directories to be created in the lab 
 
 5. On workstation return to the student home directory.
 
-*[student@workstation savedconfig]$ cd *
+*[student@workstation savedconfig]$ cd*
 
 **Evaluation**
 
