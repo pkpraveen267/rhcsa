@@ -1,24 +1,23 @@
-**MANAGING FILES FROM THE COMMAND LINE**
+# MANAGING FILES FROM THE COMMAND LINE #
 
-**PERFORMANCE CHECKLIST**
+***PERFORMANCE CHECKLIST***
 
-    In this lab, you will efficiently create, move, and remove files and directories by using 
-    
-    the shell and a variety of file name matching techniques.
+In this lab, you will efficiently create, move, and remove files and directories by using 
+the shell and a variety of file name matching techniques.
  
  **OUTCOMES**
  
-    You should be able to:
+  You should be able to:
 
     • Use wildcards to locate and manipulate files. 
 
 **BEFORE YOU BEGIN** 
 
-    Log in to workstation as student using student as the password.
+   Log in to workstation as student using student as the password.
 
-    On workstation, run the lab files-review start command. 
+   On workstation, run the lab files-review start command. 
     
-    The command runs a start script that determines if the serverb machine is reachable on the network. 
+   The command runs a start script that determines if the serverb machine is reachable on the network. 
 
 *[student@workstation ~]$ lab files-review start*
 
@@ -74,14 +73,13 @@ When finished, return to the student user's home directory.
 
 *[student@serverb ~]$ exit*
 
-logout
-Connection to serverb closed.
+`logout Connection to serverb closed.`
 
 *[student@workstation ~]$*
 
 **Evaluation**
 
-    On workstation, run the lab files-review grade script to confirm success on this lab. 
+   On workstation, run the lab files-review grade script to confirm success on this lab. 
 
 *[student@workstation ~]$ lab files-review grade* 
 
