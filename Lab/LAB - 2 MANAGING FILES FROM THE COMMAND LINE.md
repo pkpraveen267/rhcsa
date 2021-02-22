@@ -72,9 +72,9 @@ When finished, return to the student user's home directory.
 
 19. Exit from serverb.
 
-*[student@serverb ~]$ exit 
+*[student@serverb ~]$ exit* 
 logout 
-Connection to serverb closed.* 
+Connection to serverb closed.
 
 *[student@workstation ~]$ *
 
