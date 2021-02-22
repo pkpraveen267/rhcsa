@@ -28,7 +28,8 @@ Create formatted output of the passwd man page using the following command:
 
 *[student@workstation $]$ man -t passwd > passwd.ps*
 
-     The > symbol redirects the contents of the man page to the passwd.ps file. This command is taught in more detail in a following chapter.
+     The > symbol redirects the contents of the man page to the passwd.ps file. 
+     This command is taught in more detail in a following chapter.
 
 3. Using man, learn the commands used for viewing and printing PostScript files.
 
