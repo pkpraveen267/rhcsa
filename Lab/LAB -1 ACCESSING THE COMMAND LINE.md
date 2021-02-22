@@ -1,6 +1,6 @@
 # ACCESSING THE COMMAND LINE #
 
-**PERFORMANCE CHECKLIST**
+***PERFORMANCE CHECKLIST***
 
 In this lab, you will use the Bash shell to execute commands. 
 
@@ -12,9 +12,10 @@ In this lab, you will use the Bash shell to execute commands.
     
  **BEFORE YOU BEGIN**
  
-    Log in to workstation as student using student as the password. 
+   Log in to workstation as student using student as the password. 
     On workstation, run the lab cli-review start script to set up a clean lab environment. 
     The script also copies the zcat file to student's home directory. 
+
 1. Use the date command to display the current time and date.
 2. Display the current time in 12-hour clock time (for example, 11:42:11 AM). Hint: The format string that displays that output is %r.
 3. What kind of file is /home/student/zcat? Is it readable by humans?
@@ -28,7 +29,7 @@ In this lab, you will use the Bash shell to execute commands.
    
  **Evaluation**
    
-     On workstation, run the lab cli-review grade script to confirm success on this exercise.
+   On workstation, run the lab cli-review grade script to confirm success on this exercise.
  
  *[student@workstation ~]$ lab cli-review grade*
  
