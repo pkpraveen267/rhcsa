@@ -90,6 +90,6 @@ Connection to serverb closed.
 On workstation, run the lab files-review finish script to finish this lab. 
 This script removes all files and directories created on serverb during the lab exercise. 
 
-*[student@workstation ~]$ lab files-review finish *
+*[student@workstation ~]$ lab files-review finish*
 
     This concludes the lab. 
