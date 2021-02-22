@@ -22,7 +22,8 @@ From workstation run the lab net-review start command. The command runs a start 
 
 3. Create a new connection with a static network connection using the settings in the table.              
 
-      ###PARAMETER###                                            ###SETTING###
+      ###PARAMETER###                                            
+                                                               ###SETTING###
      
        Connection name                                               lab
        
