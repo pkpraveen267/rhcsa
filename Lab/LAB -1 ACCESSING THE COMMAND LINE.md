@@ -1,4 +1,4 @@
-**Accessing the Command Line** 
+**ACCESSING THE COMMAND LINE** 
 
 **PERFORMANCE CHECKLIST**
 
