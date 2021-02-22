@@ -25,7 +25,7 @@ From workstation run the lab net-review start command. The command runs a start 
 |    ### PARAMETER ###  |  ### SETTING ###  | 
 | ----------------------|:-----------------:|
 |   Connection name     |   lab             | 
-|  Interface name       |  ens3 '(might vary, use the interface that has 52:54:00:00:fa:0b as its MAC address)'  | 
+|  Interface name       |  `ens3 (might vary, use the interface that has 52:54:00:00:fa:0b as its MAC address)`  | 
 | IP address            |    172.25.250.11/24 |
 | Gateway address       |    172.25.250.254 |
 | DNS address           |    172.25.250.254 |     
