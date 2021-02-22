@@ -2,7 +2,9 @@
 
 **PERFORMANCE CHECKLIST**
 
-    In this lab, you will efficiently create, move, and remove files and directories by using the shell and a variety of file name matching techniques.
+    In this lab, you will efficiently create, move, and remove files and directories by using 
+    
+    the shell and a variety of file name matching techniques.
  
  **OUTCOMES**
  
@@ -14,7 +16,9 @@
 
     Log in to workstation as student using student as the password.
 
-    On workstation, run the lab files-review start command. The command runs a start script that determines if the serverb machine is reachable on the network. 
+    On workstation, run the lab files-review start command. 
+    
+    The command runs a start script that determines if the serverb machine is reachable on the network. 
 
 *[student@workstation ~]$ lab files-review start*
 
