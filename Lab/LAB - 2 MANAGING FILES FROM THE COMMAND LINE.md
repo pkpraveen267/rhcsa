@@ -75,10 +75,9 @@ When finished, return to the student user's home directory.
 *[student@serverb ~]$ exit*
 
 logout
-
 Connection to serverb closed.
 
-*[student@workstation ~]$ *
+*[student@workstation ~]$*
 
 **Evaluation**
 
