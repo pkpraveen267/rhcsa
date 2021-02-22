@@ -13,9 +13,7 @@ the shell and a variety of file name matching techniques.
 
 **BEFORE YOU BEGIN** 
 
-   Log in to workstation as student using student as the password.
-
-   On workstation, run the lab files-review start command. 
+   Log in to workstation as student using student as the password.On workstation, run the lab files-review start command. 
     
    The command runs a start script that determines if the serverb machine is reachable on the network. 
 
