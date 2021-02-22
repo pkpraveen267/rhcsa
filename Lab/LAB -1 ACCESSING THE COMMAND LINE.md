@@ -1,4 +1,4 @@
-**ACCESSING THE COMMAND LINE** 
+# ACCESSING THE COMMAND LINE #
 
 **PERFORMANCE CHECKLIST**
 
@@ -25,14 +25,17 @@ In this lab, you will use the Bash shell to execute commands.
 8. Repeat the previous command, but use the -n 20 option to display the last 20 lines in the file.
    Use command-line editing to accomplish this with a minimal number of keystrokes.
 9. Use the shell history to run the date +%r command again.
-   Evaluation
    
-       On workstation, run the lab cli-review grade script to confirm success on this exercise.
+ **Evaluation**
+   
+     On workstation, run the lab cli-review grade script to confirm success on this exercise.
+ 
  *[student@workstation ~]$ lab cli-review grade*
  
  **Finish**
  
-    On workstation, run the lab cli-review finish script to complete the lab.
+   On workstation, run the lab cli-review finish script to complete the lab.
+ 
  *[student@workstation ~]$ lab cli-review finish* 
       
       This concludes the lab.
