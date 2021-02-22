@@ -1,6 +1,6 @@
-**GETTING HELP IN RED HAT ENTERPRISE LINUX** 
+# GETTING HELP IN RED HAT ENTERPRISE LINUX # 
 
-**PERFORMANCE CHECKLIST** 
+***PERFORMANCE CHECKLIST*** 
 
 In this lab, you will look up information to help you complete tasks in man pages and GNU Info documents. 
 
@@ -23,8 +23,7 @@ On workstation, run the lab help-review start command.
 
 2. Create a formatted output file of the passwd man page. Call the file passwd.ps. Determine the file content format. Inspect the contents of the passwd.ps file.
 
-NOTE :-
-Create formatted output of the passwd man page using the following command: 
+### NOTE :-Create formatted output of the passwd man page using the following command: ###
 
 *[student@workstation $]$ man -t passwd > passwd.ps*
 
